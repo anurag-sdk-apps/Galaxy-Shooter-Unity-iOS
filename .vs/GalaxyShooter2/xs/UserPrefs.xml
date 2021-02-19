@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BAB007D7-1218-EF0F-6CFE-4FB4543A3517}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GalaxyShooter/Scripts/SimpleTouchAreaButton.cs">
+    <Files>
+      <File FileName="Assets/GalaxyShooter/Scripts/Player.cs" Line="122" Column="62" />
+      <File FileName="Assets/GalaxyShooter/Scripts/Laser.cs" />
+      <File FileName="Assets/GalaxyShooter/Scripts/Powerup.cs" />
+      <File FileName="Assets/GalaxyShooter/Scripts/EnemyAI.cs" />
+      <File FileName="Assets/GalaxyShooter/Scripts/SpawnManager.cs" Line="47" Column="46" />
+      <File FileName="Assets/GalaxyShooter/Scripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/GalaxyShooter/Scripts/GameManager.cs" Line="47" Column="36" />
+      <File FileName="Assets/GalaxyShooter/Scripts/SimpleTouchPad.cs" Line="56" Column="6" />
+      <File FileName="Assets/GalaxyShooter/Scripts/SimpleTouchAreaButton.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GalaxyShooter2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GalaxyShooter" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SimpleTouchAreaButton.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="653b3baa-9f75-41bb-aa77-af2c6249a47c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

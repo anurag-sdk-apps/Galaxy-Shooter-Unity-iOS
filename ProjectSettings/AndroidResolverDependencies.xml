@@ -1,0 +1,36 @@
+<dependencies>
+  <packages>
+    <package>com.android.support:multidex:1.0.3</package>
+    <package>com.applovin:applovin-sdk:9.13.1</package>
+    <package>com.facebook.android:audience-network-sdk:5.9.0</package>
+    <package>com.freestar.android.ads.adcolony:freestar-adcolony-adapter:4.1.4.2</package>
+    <package>com.freestar.android.ads.admob:freestar-admob-adapter:17.2.0.4</package>
+    <package>com.freestar.android.ads.amazon:freestar-amazon-adapter:5.9.0.3</package>
+    <package>com.freestar.android.ads.applovin:freestar-applovin-adapter:9.13.1.2</package>
+    <package>com.freestar.android.ads.criteo:freestar-criteo-adapter:3.4.0.3</package>
+    <package>com.freestar.android.ads.facebook:freestar-facebook-adapter:5.8.0.4</package>
+    <package>com.freestar.android.ads.google:freestar-google-adapter:17.2.0.5</package>
+    <package>com.freestar.android.ads.tapjoy:freestar-tapjoy-adapter:12.2.1</package>
+    <package>com.freestar.android.ads.unityads:freestar-unity-adapter-no-jar:3.4.2.3</package>
+    <package>com.freestar.android.ads:freestar-pre-androidx:3.2.9</package>
+    <package>com.freestar.android.unity:unity-plugin:1.2.15</package>
+    <package>com.google.android.ads.consent:consent-library:1.0.7</package>
+    <package>com.google.android.gms:play-services-ads:17.2.1</package>
+    <package>com.tapjoy:tapjoy-android-sdk:12.4.2@aar</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="armeabi-v7a" />
+    <setting name="bundleId" value="com.DefaultCompany.GalaxyShooter2" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="True" />
+    <setting name="useJetifier" value="False" />
+  </settings>
+</dependencies>
